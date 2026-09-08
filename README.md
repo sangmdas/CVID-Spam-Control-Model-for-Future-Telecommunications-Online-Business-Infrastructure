@@ -1,4 +1,4 @@
-# CVID Authorization-to-Reach and Communication-Finality Reference Implementation
+# CVID Authorization-to-Reach and Communication-Finality Reference Implementation for 6G Communications 
 
 > **Research and interoperability prototype — not a telephone-network standard, production SBC, or emergency-services implementation.**
 
