@@ -1,0 +1,1 @@
+{"profile":"federated-edge","binding":"cross-provider grant reference","placement":"regional verifier close to the terminating boundary","identity_input":"federated issuer and origin trust anchors","claim_limit":"Issuer discovery, federation, privacy, revocation, and failure semantics are not standardized here."}

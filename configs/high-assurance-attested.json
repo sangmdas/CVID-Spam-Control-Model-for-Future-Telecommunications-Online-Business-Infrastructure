@@ -1,0 +1,1 @@
+{"profile":"high-assurance-attested","binding":"same grant semantics with HSM, TEE, enclave, or attested verifier","placement":"protected enforcement domain controlling release","identity_input":"authenticated sender plus optional attestation result","claim_limit":"Attestation strengthens the verifier but does not replace communication authority or bypass closure."}

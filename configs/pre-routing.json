@@ -1,0 +1,7 @@
+{
+  "profile": "pre-routing",
+  "enforcement_point": "resolver, directory, or service-exposure gateway",
+  "path_behavior": "Release a temporary route or destination only after validation.",
+  "validation": "near-edge verifier with cacheable non-sensitive epochs",
+  "claim_boundary": "Alternate ordinary routes must be separately assessed."
+}

@@ -1,0 +1,1 @@
+{"profile":"webrtc-turn","binding":"WebRTC signaling authorization reference","placement":"room creation, notification, media admission, or TURN allocation boundary","identity_input":"authenticated application or workload identity","claim_limit":"This implementation defines no new WebRTC or TURN protocol fields."}

@@ -1,0 +1,7 @@
+{
+  "profile": "absent-path",
+  "enforcement_point": "controlled relay or private mediated namespace",
+  "path_behavior": "Visible handle alone does not activate the effective route, notification, media allocation, or destination resolution.",
+  "validation": "authorization releases the protected path",
+  "claim_boundary": "Only valid when no equivalent alternate route bypasses enforcement."
+}

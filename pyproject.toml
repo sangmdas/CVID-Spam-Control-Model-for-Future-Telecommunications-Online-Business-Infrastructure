@@ -1,0 +1,9 @@
+[project]
+name = "cvid-authorization-to-reach-reference"
+version = "0.2.0"
+description = "Research reference implementation for authorization-to-reach communication handles"
+requires-python = ">=3.11"
+license = { text = "PolyForm-Noncommercial-1.0.0" }
+
+[tool.unittest]
+start-directory = "tests"

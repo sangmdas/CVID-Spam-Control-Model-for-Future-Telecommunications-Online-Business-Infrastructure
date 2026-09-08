@@ -1,0 +1,1 @@
+{"profile":"messaging-notification","binding":"message envelope or notification authorization reference","placement":"messaging gateway or push broker","identity_input":"provider-authenticated sender","claim_limit":"Denial must occur before the protected recipient notification or thread effect."}

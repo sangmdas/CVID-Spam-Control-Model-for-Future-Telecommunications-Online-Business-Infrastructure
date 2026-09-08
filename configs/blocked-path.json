@@ -1,0 +1,7 @@
+{
+  "profile": "blocked-path",
+  "enforcement_point": "SBC or SIP application server",
+  "path_behavior": "Address resolves; reject before ringing, notification, or media release.",
+  "validation": "local verifier preferred; online epoch/revocation check when required",
+  "claim_boundary": "Does not claim that upstream signaling is absent."
+}

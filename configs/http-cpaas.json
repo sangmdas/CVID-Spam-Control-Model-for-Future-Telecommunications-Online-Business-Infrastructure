@@ -1,0 +1,1 @@
+{"profile":"http-cpaas","binding":"HTTP authorization object or protected reference","placement":"CPaaS API gateway or callback bridge","identity_input":"mTLS, DPoP, workload identity, or provider-authenticated client","claim_limit":"General API access does not automatically authorize the communication consequence."}

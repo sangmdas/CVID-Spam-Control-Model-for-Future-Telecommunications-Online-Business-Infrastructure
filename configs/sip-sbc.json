@@ -1,0 +1,1 @@
+{"profile":"sip-sbc","binding":"illustrative SIP authorization reference","placement":"SIP proxy, SBC, or application server","identity_input":"verified SIP/STIR identity where available","claim_limit":"No SIP header or PASSporT claim is standardized by this implementation."}

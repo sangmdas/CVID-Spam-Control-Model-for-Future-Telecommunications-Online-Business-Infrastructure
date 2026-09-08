@@ -1,0 +1,1 @@
+{"profile":"stir-passport-input","binding":"authenticated origin is an input to authorization-to-reach","placement":"terminating identity verifier plus enforcement point","identity_input":"STIR/PASSporT verification result","claim_limit":"Origin authenticity is not recipient-issued permission to contact."}
